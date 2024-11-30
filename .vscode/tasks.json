@@ -1,0 +1,23 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build C++ Program",
+            "type": "shell",
+            "command": "/usr/bin/clang++", // Use g++ or clang++ installed by Xcode
+            "args": [
+                "main.cpp",
+                "LinkedList.cpp",
+                "Node.cpp",
+                "-o",
+                "main"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"],
+            "detail": "Build the C++ program"
+        }
+    ]
+}
