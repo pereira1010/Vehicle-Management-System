@@ -1,0 +1,20 @@
+Model: Honda Civic, Type: Car, Engine: 1.8L
+Model: Ford F-150, Type: Truck, Load Capacity: 3.5 tons
+Model: Toyota Camry, Type: Car, Engine: 2.5L
+Model: Chevrolet Silverado, Type: Truck, Load Capacity: 4 tons
+Model: BMW 3 Series, Type: Car, Engine: 2.0L
+Model: Ram 1500, Type: Truck, Load Capacity: 2.5 tons
+Model: Audi A4, Type: Car, Engine: 2.0L
+Model: GMC Sierra, Type: Truck, Load Capacity: 4.5 tons
+Model: Mercedes-Benz E-Class, Type: Car, Engine: 3.5L
+Model: Nissan Titan, Type: Truck, Load Capacity: 4 tons
+Model: Subaru Outback, Type: Car, Engine: 2.5L
+Model: Ford Ranger, Type: Truck, Load Capacity: 3 tons
+Model: Honda Accord, Type: Car, Engine: 2.4L
+Model: Toyota Tundra, Type: Truck, Load Capacity: 5 tons
+Model: Lexus RX 350, Type: Car, Engine: 3.5L
+Model: Nissan Frontier, Type: Truck, Load Capacity: 3 tons
+Model: Kia Optima, Type: Car, Engine: 2.4L
+Model: Chevrolet Colorado, Type: Truck, Load Capacity: 3.2 tons
+Model: Mazda CX-5, Type: Car, Engine: 2.5L
+Model: Ford Super Duty, Type: Truck, Load Capacity: 6 tons
